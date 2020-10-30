@@ -1,8 +1,7 @@
 # Tabular-Data-EDA
 
 
-Project Title: <EDA And Model Guide Line>
-Date: <10/30/2020>
+Project Title:<EDA And Model Guide Line>
 ------------------------------------------------
   
 EDA Guidelines
