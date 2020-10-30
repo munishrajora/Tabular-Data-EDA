@@ -1,10 +1,10 @@
 # Tabular-Data-EDA
 
 
-Project Title:<EDA And Model Guide Line>
+Project Title:  EDA And Model Guide Line
 ------------------------------------------------
   
-EDA Guidelines
+## EDA Guidelines
 ----------------
   1.	Structure of data
   
@@ -35,7 +35,7 @@ EDA Guidelines
           class3 | 250 | 50
           
     
-  ML-Model Guidelines
+  ## ML-Model Guidelines
   -----------------------
   
     a)	Train-test split process
